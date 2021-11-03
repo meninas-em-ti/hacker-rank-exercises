@@ -1,6 +1,6 @@
-package com.java.study.group;
+package hello_world;
 
-public class WelcomeToJava
+public class HelloWorld
 {
     public static void main( String[] args )
     {
